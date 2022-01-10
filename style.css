@@ -1,0 +1,13 @@
+.test_image_and_result{
+    background-color: grey;
+    color: white;
+    border-radius: 5px;
+    width: 1000px;
+    float: center;
+    margin-bottom: 50px;
+    
+}
+.mini_result{
+    float: left;
+}
+
